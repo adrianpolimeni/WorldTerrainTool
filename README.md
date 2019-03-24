@@ -7,7 +7,8 @@ As a rudimentary build, the features are currently limited.
 Currently the software can:
 - Decode a .hgt file
 - Apply a cubic spline algorithm to estimate unknown areas of the terrain data
-- Output an interpretation of the data in the form of an image
+- Output an interpretation of the terrain data in the form of an image
+- Or, output a 3D model of the terrain data
 
 
 Example image of WebGIS terrain with some missing data (outlined in red):
